@@ -1,9 +1,9 @@
-### Hola! mi nombre es Ignacio Villca y soy programador Python.
+### Hola! mi nombre es Ignacio Villca y soy programador en Python.
 - Estudio actualmente en la Universidad provincial del Sudoeste en la provincia de Buenos Aires.
-- Me especializo en desarrollo web:
---  Mi stack es: python, Mysql, javascript, html, css.
+#### Me especializo en desarrollo web.
+##### Mi stack es: python, Mysql, javascript, html, css.
 - tambien tengo conocimientos en lenguajes de programación: C# y PHP.
-- Me encanta adquirir nuevos conocimientos atraves de cursos y ademas soy muy autodidacta.
+- Me encanta adquirir nuevos conocimientos atraves de cursos, soy muy autodidacta y dedicado a seguir aprendiendo.
 <!--
 **Francovc12/Francovc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
