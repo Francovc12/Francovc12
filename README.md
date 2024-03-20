@@ -1,5 +1,5 @@
 ### :wave: Hola! mi nombre es Ignacio Villca y soy programador en Python.
-:desktop_computer: Estudio actualmente en la Universidad provincial del Sudoeste en la provincia de Buenos Aires.
+:desktop_computer: Me recibi de Técnico en tecnologias de programación en la UPSO
 #### Me especializo en desarrollo web.
 :white_check_mark: Mi stack es: python, Mysql, javascript, html, css.
 
