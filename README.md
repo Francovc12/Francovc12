@@ -1,22 +1,25 @@
-### :wave: Hola! mi nombre es Ignacio Villca y soy programador en Python.
-:desktop_computer: Me recibi de Técnico en tecnologias de programación en la UPSO
-#### Me especializo en desarrollo web.
-:white_check_mark: Mi stack es: python, Mysql, javascript, html, css.
 
-:white_check_mark: Tambien tengo conocimientos en lenguajes de programación: C# y PHP.
+# Hola Mundo Soy Ignacio Franco Villca 
+:computer: Tecnico Universitario en Tecnologias de Programacion
 
-:white_check_mark: Me encanta adquirir nuevos conocimientos atraves de cursos, soy muy autodidacta y dedicado a seguir aprendiendo.
-<!--
-**Francovc12/Francovc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Acerca de Mi
+Soy desarollador Backend y Analista de Datos con Python :snake: . Me dedico en mi tiempo libre a seguir aumentando mis conocimientos sobre la programacion y realizando proyectos personales, como tambien proyectos en grupo atravez de simulaciones como No Country y Incubadora LATAM. Las cuales me brindan fortaleza en las habilidades blandas y tecnicas, metodologias agiles. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🛠 Skills
+- :snake: Python (Flask, FastAPI, Pandas, Numpy, sklearn, seaborn, plotly)
+- Javascript
+- C#
+- PHP
+- MySQL
+- Git, GitHub
+- HTML, CSS
+- Trello
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-villca-cayampi/)
+
+
