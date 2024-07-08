@@ -11,13 +11,14 @@ Soy desarollador Backend y Analista de Datos con Python :snake: . Me dedico en m
 
 ## 🛠 Skills
 - :snake: Python (Flask, FastAPI, Pandas, Numpy, sklearn, seaborn, plotly)
-- Javascript
-- C#
+- Javascript (React, Next JS)
+- C# (Windows Form)
 - PHP
 - MySQL
 - Git, GitHub
-- HTML, CSS
-- Trello
+- HTML5, CSS3
+- Docker
+- Trello, Basecamp
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-villca-cayampi/)
