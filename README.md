@@ -12,6 +12,7 @@ Soy desarollador Backend y Analista de Datos con Python :snake: . Me dedico en m
 ## 🛠 Skills
 - :snake: Python (Flask, FastAPI, Pandas, Numpy, sklearn, seaborn, plotly)
 - Javascript (React, Next JS)
+- Typescript (React, Next JS)
 - C# (Windows Form)
 - PHP
 - MySQL
