@@ -1,9 +1,9 @@
 
 # Hola Mundo Soy Ignacio Franco Villca 
-:computer: Tecnico Universitario en Tecnologias de Programacion
+:computer: Tecnico Universitario en Tecnologias de Programación
 
 ## 🚀 Acerca de Mi
-Soy desarollador Backend y Analista de Datos con Python :snake: . Me dedico en mi tiempo libre a seguir aumentando mis conocimientos sobre la programacion y realizando proyectos personales, como tambien proyectos en grupo atravez de simulaciones como No Country y Incubadora LATAM. Las cuales me brindan fortaleza en las habilidades blandas y tecnicas, metodologias agiles. 
+Soy desarollador Back-end y Análista de Datos con Python :snake: . Me dedico en mi tiempo libre a seguir aumentando mis conocimientos sobre programación y realizando proyectos personales, como tambien proyectos en grupo a través de simulaciones laborales como No Country y Incubadora Desafio LATAM. Las cuales me ayudan a desarrollar mis habilidades blandas, tecnicas y metodologias ágiles. 
 
 
 
