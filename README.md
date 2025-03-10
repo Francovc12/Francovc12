@@ -3,7 +3,7 @@
 :computer: Tecnico Universitario en Tecnologias de Programación
 
 ## 🚀 Acerca de Mi
-Soy desarollador Back-end y Análista de Datos con Python :snake: . Me dedico en mi tiempo libre a seguir aumentando mis conocimientos sobre programación y realizando proyectos personales, como tambien proyectos en grupo a través de simulaciones laborales como No Country y Incubadora Desafio LATAM. Las cuales me ayudan a desarrollar mis habilidades blandas, tecnicas y metodologias ágiles. 
+Soy desarollador Back-end y Front-end, ademas de Análista de Datos con Python :snake: . Me dedico en mi tiempo libre a seguir aumentando mis conocimientos sobre programación y realizando proyectos personales, como tambien proyectos colaborativos a través de simulaciones laborales como No Country y Incubadora Desafio LATAM. Las cuales me ayudan a desarrollar mis habilidades blandas, tecnicas y metodologias ágiles. 
 
 
 
